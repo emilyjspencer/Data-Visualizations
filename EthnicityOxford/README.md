@@ -8,4 +8,4 @@ Oxford and Cambridge said they are working to broaden their pool of applicants a
 
 The following pie chart shows the ethnicities of students who matriculated at either the University of Oxford in 2017.
 
-![oxbridge](oxbridge.png)
+![oxford](oxford.png)
