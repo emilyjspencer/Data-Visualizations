@@ -1,4 +1,4 @@
-The number of black students applying for and accepting places at the Universities of Oxford and Cambrige is chronically low.
+The number of black students applying for and accepting places at the Universities of Oxford and Cambridge is chronically low.
 
 In 2017, black students represented a mere 1.9% of students who accepted a place at one of the two prestigious universities.
 
