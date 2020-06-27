@@ -11,7 +11,7 @@ new Chart(document.getElementById("graph1"), {
     options: {
       title: {
         display: true,
-        text: 'Ethnicity of students enrolled at Oxford or Cambridge University in 2017'
+        text: 'Ethnicity of students who matriculated at the University of Oxford in 2017'
       }
     }
 });
