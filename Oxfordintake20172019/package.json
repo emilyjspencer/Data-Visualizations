@@ -1,5 +1,4 @@
 {
-  "start": "json-server data.json --delay 3000",
   "_from": "package-json@^6.3.0",
   "_id": "package-json@6.5.0",
   "_inBundle": false,
@@ -73,6 +72,7 @@
     "url": "git+https://github.com/sindresorhus/package-json.git"
   },
   "scripts": {
+    "start": "json-server data.json --delay 3000",
     "test": "xo && ava && tsd"
   },
   "version": "6.5.0"
