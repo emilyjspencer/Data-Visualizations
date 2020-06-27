@@ -1,0 +1,13 @@
+.container {
+    width: 50%;
+    height: 50%;
+    position: relative;
+}
+
+
+#message{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
