@@ -7,6 +7,8 @@ function showData(data, labels) {
             datasets: [{
                 label: 'Student Intake 2017',
                 data: data,
+                backgroundColor: 'rgba(100, 134, 234, 0.2)',
+                borderColor: 'rgba(65, 121, 121, 1)',
             }]
         },
   });
