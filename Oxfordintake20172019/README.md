@@ -25,6 +25,8 @@ localhost:3000/data
 
 The following line graph shows the ethnicities of students who matriculated at the University of Oxford in 2015 and 2019.
 
+The graph shows that marginally more black students enrolled at the University in 2019 than did in 2015, and fewer white students matriculated in 2019 than did in 2015.
+
 
 ![students](students.png)
 ![bangladeshi](bangladeshi.png)
