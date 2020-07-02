@@ -44,4 +44,4 @@ The daily deaths from Coronavirus in the UK between March 14th and June 25th, 20
 A comparison of the ethnicities of students matriculating at the University of Oxford in 2015 and 2019
 ![students](students.png)
 ![bangaldeshi](bangladeshi.png)
-![mixedheritage](mixedheritage_png)
+![mixedheritage](mixedheritage.png)
